@@ -3,6 +3,7 @@
 ## <h1>Semana Front-end Mundo Invertido</h1>
 <h2>Landing Page com theme switcher utilizando HTML, CSS e JavaScript, além de integrar  um formulário de inscrição com um banco de dados Firebase.</h2>
 <h3>Projeto demonstrado em live na Semana Frontend da DIO (Digital Innovation One), e foi essencial para praticar as ferramentas utilizadas descritas abaixo.</h3>
+
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/semana-frontend-mundo-invertido/)
 
 <b>As ferramentas utilizadas foram:</b>
