@@ -1,4 +1,4 @@
-<img align="center" alt="Mundo Invertido" src="https://i.postimg.cc/7hRG7qmZ/mundo-invertido.png">
+<img align="center" alt="Mundo Invertido" src="https://i.postimg.cc/ncQQk2KZ/projeto-mundo-invertido.png">
 
 ## <h1>Semana Front-end Mundo Invertido</h1>
 <h2>Landing Page com theme switcher utilizando HTML, CSS e JavaScript, além de integrar  um formulário de inscrição com um banco de dados Firebase.</h2>
